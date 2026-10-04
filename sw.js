@@ -1,4 +1,4 @@
-const CACHE = 'zunda-工原-v5';
+const CACHE = 'zunda-工原-v6';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
